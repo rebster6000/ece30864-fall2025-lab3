@@ -5,3 +5,8 @@
     Cons:
         -Agile development takes more time and commitment from both the team and the team leader ith frequent communication and updates.
         -Less thorough documentation can make future development harder and lead to problems down the line.
+
+
+2. Roles and Responsabilities of Scrum Master vs Product Owner
+    Scrum Master: In charge of all scrum related tasks which includes JIRA tooling and facilitating sprints and meetings.
+    Prodcut Owner: In charge of setting the direction for the team and also handles release and stakeholder management.
