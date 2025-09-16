@@ -22,3 +22,10 @@
     -Sprint Retrospective Meeting  
         -Discuss work completed
         -Discuss what work the move to the backlog and what work to continue on
+
+
+4. Differentiate between Epics, Stories, Bugs, and tasks
+    -Epics: captures a large body of work that can be broken down into smaller stories 
+    -Stories: a software system requirement that is expressed in a few short sentences
+    -Bugs: problems that impede work and prevent the completion of certain tasks
+    -Tasks: a small specific piece of work that a person/team needs to complete, often part of a larger story or epic
