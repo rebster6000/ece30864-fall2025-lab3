@@ -10,3 +10,15 @@
 2. Roles and Responsabilities of Scrum Master vs Product Owner
     Scrum Master: In charge of all scrum related tasks which includes JIRA tooling and facilitating sprints and meetings.
     Prodcut Owner: In charge of setting the direction for the team and also handles release and stakeholder management.
+
+
+3. 3 Types of Meetings During a Sprint Cycle
+    -Sprint Planning Meeting
+        -Determine what to complete in the upcoming sprint
+        -Determine story points and assign stories to teams
+    -Daily Scrum/Standup Meeting
+        -Team members discuss work completed, 
+        -Team members discuss work plan for the day and any potential roadblocks
+    -Sprint Retrospective Meeting  
+        -Discuss work completed
+        -Discuss what work the move to the backlog and what work to continue on
