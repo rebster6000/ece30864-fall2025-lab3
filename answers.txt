@@ -1,0 +1,7 @@
+1. Pros vs Cons of Agile Development
+    Pros:
+        -The iterative approach helps development happen faster and allows the product to be launched quicker
+        -Constant colaboration with the customer helps ensure customer satisfaction and minimizes having to redo work.
+    Cons:
+        -Agile development takes more time and commitment from both the team and the team leader ith frequent communication and updates.
+        -Less thorough documentation can make future development harder and lead to problems down the line.
